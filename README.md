@@ -20,3 +20,5 @@ Sistema para gerenciamento de perguntas de um quiz de tecnologia.
 
 - Linguagem C
 - Dev-C++
+
+https://youtu.be/oFTuL9gt9Lc?si=nqb7AGC1Vf784mnl
