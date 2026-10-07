@@ -1,13 +1,3 @@
-1;Netflix, Disney+ e Spotify são exemplos de serviços de streaming?;Streaming, jogos online e gamification;ES;SIM
-2;Jogos online multiplayer exigem necessariamente conexão com a internet?;Streaming, jogos online e gamification;ES;SIM
-3;Em jogos online competitivos, o lag (atraso) não influencia o desempenho do jogador?;Streaming, jogos online e gamification;ES;NAO
-4;Assistentes virtuais como Siri, Alexa e Google Assistant usam inteligência artificial?;Inteligência artificial no dia a dia;CC;SIM
-5;A inteligência artificial sempre toma decisões sem qualquer tipo de erro?;Inteligência artificial no dia a dia;CC;NAO
-6;Reconhecimento facial em smartphones é um exemplo de aplicação de IA no dia a dia?;Inteligência artificial no dia a dia;CC;SIM
-7;Carregar o celular até 100% todos os dias é a forma mais recomendada de preservar a bateria a longo prazo?;Smartphones, dispositivos mobile e baterias;ADS;NAO
-8;O modo avião desativa as conexões de rede e pode ajudar a economizar bateria?;Smartphones, dispositivos mobile e baterias;ADS;SIM
-9;Manter o brilho da tela no máximo o tempo todo não afeta a duração da bateria.;Smartphones, dispositivos mobile e baterias;ADS;NAO
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
